@@ -1,5 +1,26 @@
 # Framework for International Travel
 
+## Table of Contents
+- [VISA](#visa)
+- [FLIGHT](#flight)
+- [MONEY](#money)
+- [ACCOMMODATION (Hotels/Airbnbs)](#accommodation-hotelsairbnbs)
+- [TRAVEL BETWEEN POINTS](#travel-between-points)
+  - [Within the same city](#within-the-same-city)
+  - [Between different cities](#between-different-cities)
+- [FOOD](#food)
+- [ITINERARY](#itinerary)
+- [TIPS](#tips)
+  - [Google Maps](#google-maps)
+  - [Packing](#packing)
+  - [Itinerary order](#itinerary-order)
+  - [Shopping](#shopping)
+  - [Rest days](#rest-days)
+  - [Useful Apps](#useful-apps)
+  - [Forex Card](#forex-card)
+- [FAQ](#faq)
+
+
 ## VISA  
 - **Check visa requirements**: Ensure you meet all entry requirements for your destination.  
 - **Processing time**: Research how long the visa process typically takes.  

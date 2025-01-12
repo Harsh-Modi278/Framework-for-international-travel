@@ -1,52 +1,89 @@
-# Framework-for-international-travel
+# Framework for International Travel
 
-VISA
-- Check visa requirements
-- how long does the process takes
-- do you need to show hotel and flight bookings alongside itinerary in visa application?
+## VISA  
+- **Check visa requirements**: Ensure you meet all entry requirements for your destination.  
+- **Processing time**: Research how long the visa process typically takes.  
+- **Required documents**: Confirm if you need to submit hotel and flight bookings along with your itinerary for the visa application.  
 
-FLIGHT
-- Check flight prices on sky scanner and set alerts well in advance.
-- Make use of discounts/CC points/rewards points.
+---
 
-MONEY:
-- Bring a [zero charge] forex card 
-- Being sufficient amount of USD and convert some of them into local currency at airport 
-- Don't convert all of them at once. Keep converting USDs after estimating how much cash usage heavy the society is.
+## FLIGHT  
+- **Flight prices**: Use platforms like Skyscanner and set alerts well in advance to grab the best deals.  
+- **Discounts and points**: Utilize discounts, credit card points, and rewards programs to save money.  
 
-HOTELS/AIRBNB
-- If the country's transport mode is "Cab/taxi-heavy" then it's better to stay in a place which is spacious and is in prime location
-- If the country's transport mode is "bus/train-heavy" then preferable to live in walking distance a major bus or train station.
-- Book a hotel near airport if your flight is arriving late or departing early morning to save up on late night transportation fair and stress of traveling with luggage.
+---
 
-Travel from point A to point B:
+## MONEY  
+- **Forex card**: Bring a zero-fee forex card to minimize transaction charges.  
+- **Cash**:  
+  - Carry a sufficient amount of USD for emergencies.  
+  - Convert some USD to the local currency at the airport.  
+  - Avoid converting all at once; assess cash needs based on the country’s reliance on cash.  
 
-- A and B are in same city:
-- 1) Use train or bus if country's public transport is safe and reliable 
-- 2) Use cabs or taxis otherwise. Research and download cab apps used by locals in the country.
+---
 
-- A and B are in different city:
-1. Bullet train /high speed rails
-2. Overnight sleeper bus
-3. Flights
-Check if you need to book in advance.
+## ACCOMMODATION (Hotels/Airbnbs)  
+- **Location matters**:  
+  - If the country is **cab/taxi-heavy**, choose spacious accommodations in prime locations.  
+  - If the country is **bus/train-heavy**, stay within walking distance of major transport hubs.  
+- **Airport proximity**: Book a hotel near the airport if your flight arrives late or departs early to reduce transportation stress.  
 
-Food:
-- Bring some homemade food (dry) with you.
-- Make a separate Google maps list for food places and keep adding the places into the list when you see it while scrolling reels
+---
 
-Itinerary
-- If you’re gonna travel intercity by flights then select those flights depending on budget and fix per-city days.
-- It is better to keep the “shopping” city at the end so you don’t have to carry the luggage the whole trip.
-- Keep rest days in the itinerary
+## TRAVEL BETWEEN POINTS  
 
-Tips:
-- Google Maps:
-    - Always check the surrounding area of hotel/airbnb and distances to and from for airport/station/famous attractions.
-    - Use different options like “accessible, fewest transfer etc” while checking how to go from Point A to Point B.
-- About packing
-- About ordering of things to do in itinerary
-- Shopping
-- Rest days
-- Apps
-- Forex card
+### **Within the same city**  
+1. Use **trains or buses** if public transport is safe and reliable.  
+2. Use **cabs or taxis** otherwise. Research and download local cab apps before your trip.  
+
+### **Between different cities**  
+1. **High-speed trains**: A convenient and fast option for intercity travel.  
+2. **Overnight sleeper buses**: Save on accommodation while traveling overnight.  
+3. **Flights**: Book early for better prices if flying is the most practical option.  
+
+---
+
+## FOOD  
+- **Bring homemade food**: Carry some dry, non-perishable food for convenience.  
+- **Curate a food map**: Create a Google Maps list for food places you discover on social media or other sources.  
+
+---
+
+## ITINERARY  
+- **Plan flights strategically**:  
+  - For intercity travel, select flights that align with your budget and itinerary.  
+  - Fix the number of days per city accordingly.  
+- **Shopping city**: Schedule shopping at the end of your trip to avoid carrying extra luggage throughout.  
+- **Rest days**: Include rest days in your plan to avoid travel fatigue.  
+
+---
+
+## TIPS  
+
+### **Google Maps**  
+- Check the area surrounding your hotel or Airbnb, including distances to airports, stations, and attractions.  
+- Use filters like "accessible" or "fewest transfers" when checking public transport routes.  
+
+### **Packing**  
+- Pack light but ensure all essentials are included. Consider packing cubes to organize your belongings.  
+
+### **Itinerary order**  
+- Prioritize activities based on proximity and intensity to make the most of your days.  
+
+### **Shopping**  
+- Keep luggage space for purchases and carry a foldable travel bag for extra items.
+
+### **Rest days**  
+- Schedule breaks to relax and recharge during your trip.  
+
+### **Useful Apps**  
+- Download apps for transport, language translation, and currency conversion before your trip.  
+
+### **Forex Card**  
+- Research and compare the best forex card options for your destination.  
+
+--
+## FAQ
+
+1) What to do if my hotel/Airbnb checkout is few hours earlier than flight?
+Ans: Use apps like Yamato transport, LuggAgent or lugagge storing service to avoid paying for one extra day at hotel/Airbnb.

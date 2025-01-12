@@ -82,7 +82,8 @@
 ### **Forex Card**  
 - Research and compare the best forex card options for your destination.  
 
---
+---
+
 ## FAQ
 
 1) What to do if my hotel/Airbnb checkout is few hours earlier than flight?
